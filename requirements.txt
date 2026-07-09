@@ -1,0 +1,14 @@
+polars
+pyarrow
+fastexcel
+plotly
+nbformat
+ipykernel
+ipython
+jupyter_client
+jupyter_core
+numpy
+pandas
+openpyxl
+pycountry
+matplotlib

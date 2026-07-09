@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data and generated outputs
+data/raw/
+data/interim/
+data/processed/
+outputs/
+*.parquet
+*.feather
+
+# Keep documented public files
+!data/README.md
+!figures/**/*.png
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
