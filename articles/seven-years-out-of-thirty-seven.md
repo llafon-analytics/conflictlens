@@ -120,6 +120,5 @@ If the first lesson is that conflict deaths concentrate instead of spreading, th
 
 ## Analysis notebooks
 
-TODO: update with the actual repository path before publishing.
-
-Placeholder: <https://github.com/ludo/conflictlens>
+<https://github.com/llafon-analytics/conflictlens>
+<https://gitgud.io/ludoviclafon/conflictlens>
