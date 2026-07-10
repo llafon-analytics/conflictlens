@@ -72,19 +72,23 @@ That caption matters, so it is worth saying plainly in the text as well: the cha
 
 That is the sentence to hold onto: a genocide, a civil war, an interstate invasion and a civilian-exposure rupture can produce a similar-looking bar on a chart. They are not similar events.
 
-## What this does not say — and the case that proves why
+## What this does not say — and the case that makes the limit visible
 
-Everything above rests on one convention, and the convention deserves to be stated in the open, because it is easy to misread.
+Everything above rests on one convention:
 
-A country-year contributor is not a perpetrator. A share of annual deaths is not a verdict.
+**A country-year contributor is not a perpetrator. A share of annual deaths is not a verdict.**
 
-When this analysis says a country accounts for some share of a year's deaths, it means only that those deaths are statistically coded under that analytical unit and that year in the underlying data. It does not identify who did the killing, who was targeted, what nationality the victims held, or how the violence should be classified in law or in history. Those are actor-level and event-level questions, and this project does not attempt to answer them here. The country-year is a bookkeeping grain, not a finding about responsibility.
+In this panel, deaths are grouped under an analytical unit and a year. That grouping tells us where a record enters the arithmetic. It does not tell us who killed whom, who was targeted, what nationality the victims held, or how the violence should be classified in law or history. Those questions require actor-level and event-level analysis.
 
-The clearest illustration of why this matters is in the most recent year in the data.
+![The 2025 global organized-violence death total divided among Ukraine, Sudan, the Israel–2025 analytical unit and all other analytical units, alongside a panel explaining that country-year grouping does not identify perpetrators or victims.](../figures/seven-years-out-of-thirty-seven/fig04_country_year_contribution_not_attribution_2025.png)
 
-Israel is the third-largest country-year contributor to the 2025 total, at roughly 6% of that year's global organized-violence deaths — about 14,600 deaths coded under that unit and year. Naming that number without immediately attaching this caveat would be worse than not naming it at all: on its own it reads like an attribution of responsibility, and country-year data cannot support an attribution of responsibility — on this conflict least of all, where the distinction between "deaths coded under a unit" and "who killed whom" carries more weight than almost anywhere else in the dataset. The figure is a contribution to an arithmetic total. It is not a statement about perpetration, about victims, or about the character of the violence — and this article deliberately assigns it no such label. That tension is exactly why the convention exists. This is the case that makes it concrete rather than abstract.
+*The 2025 total grouped by country-year analytical unit. Shares represent statistical assignments in the panel, not perpetrator attributions. The chart does not identify who killed whom, who was targeted, victim nationality, or legal and historical classification.*
 
-The same discipline applies, quietly, to every row in every table above. It is simply hardest to ignore here.
+The row labelled **Israel–2025** makes this boundary concrete. It contains about 14,600 organized-violence deaths, or 5.9% of the 2025 global total, making it the third-largest statistical contribution that year.
+
+The figure supports that arithmetic statement — and only that statement. It does not attribute those deaths to the Israeli state, to any other actor, or to any category of victim. The country-year is an aggregation key, not a finding about responsibility.
+
+The same rule applies to every country-year in this article. Here, it is simply hardest to overlook.
 
 ## Deadliness is not spread
 
