@@ -124,5 +124,9 @@ If the first lesson is that conflict deaths concentrate instead of spreading, th
 
 ## Analysis notebooks
 
-<https://github.com/llafon-analytics/conflictlens>
-<https://gitgud.io/ludoviclafon/conflictlens>
+**Repo**
+[ConflictLens repository](https://github.com/llafon-analytics/conflictlens)
+
+**Notebooks**
+[Country-year analysis](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/core/03_conflictlens_country_year_analysis.ipynb) — builds and validates the country-year analytical framework, documents the attribution and concentration metrics, and provides the core results reused by the article notebooks.
+[Reproduction notebook — Seven years out of thirty-seven](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/articles/01_seven_years_out_of_thirty_seven.ipynb) — recomputes the figures, statistics, and annotations used in the article and asserts the validated results.
