@@ -1,132 +1,194 @@
 ---
 title: "Seven years out of thirty-seven. Half the toll."
-subtitle: "A handful of years carry almost everything — and each one is a different kind of catastrophe."
+subtitle: "Under UCDP's best estimates, seven years carry half the 1989–2025 recorded total. Five of them are consecutive."
 author: "Ludovic Lafon"
-date: "2026-07-09"
-reading_time: "8 min read"
-excerpt: "Seven years out of thirty-seven account for roughly half of all recorded conflict deaths since 1989. But those years are not the same kind of catastrophe."
+date: "2026-07-13"
+reading_time: "9 min read"
+excerpt: "Seven years account for half of UCDP's best-estimate organized-violence deaths since 1989. But the exact cutoff depends on fatality uncertainty, and five of those years form a recent consecutive cluster."
 slug: "seven-years-out-of-thirty-seven"
-status: "published"
+status: "draft"
 ---
 
 # Seven years out of thirty-seven. Half the toll.
 
-*A handful of years carry almost everything — and each one is a different kind of catastrophe.*
+*Under UCDP's best estimates, seven years carry half the 1989–2025 recorded total. Five of them are consecutive.*
 
-Seven years. Out of thirty-seven. That's all it takes to reach half of every conflict death recorded since 1989.
+Take the thirty-seven years between 1989 and 2025. Sort them by the number of conflict deaths recorded in each. Start adding, from the deadliest year down.
 
-Not the deadliest decade. Not a region, or a war, or a cause. Seven individual years, scattered across nearly four decades, together account for roughly half of the entire toll. The other thirty carry the rest between them.
+You reach half the total on the seventh year.
 
-A line chart invites you to read a trend: violence rising, falling, recovering, rising again. It's a natural reflex, and for most data it's the right one. Conflict violence doesn't behave like that. It behaves like a small number of earthquakes on an otherwise quiet seismograph — long stretches where the needle barely moves, broken by a handful of years that tear off the top of the page.
+That is the headline, and this article is about what it does — and does not — mean. Because the seven years are not seven isolated catastrophes scattered evenly across four decades. One of them is 1994. Another is 2014. The remaining five are every single year from 2021 to 2025.
 
-This article is about that shape, and about what it means to look inside it. Because once you see that the toll concentrates rather than spreads, a second thing becomes visible: the years that carry it are not the same kind of event at all.
+So the record contains two things at once: a few extraordinary shocks, and a recent run of very high years. Neither should be used to hide the other.
 
-## A curve that looks like a trend
+## First, what exactly is being counted
 
-Start with the simplest possible view: total conflict deaths per year, worldwide, from 1989 to 2025. This is the UCDP measure of organized violence — deaths recorded across state-based conflict, non-state conflict, and one-sided violence against civilians.
+Before any number means anything, it is worth being clear about where it comes from — and what it leaves out.
 
-![Annual UCDP organized-violence total deaths, 1989–2025. The 1994 peak is left at full height on purpose — the spike is the argument.](../figures/seven-years-out-of-thirty-seven/fig01_annual_ucdp_ov_total_deaths_1989_2025.png)
+Every figure in this article comes from the Uppsala Conflict Data Program (UCDP), which records **organized violence**: state-based conflict, non-state conflict between armed groups, and one-sided violence against civilians. For each event, UCDP publishes a low, a best and a high fatality estimate. Unless stated otherwise, the figures below use the **best** estimate.
 
-*Annual UCDP organized-violence total deaths, 1989–2025. The 1994 peak is left at full height on purpose — the spike is the argument.*
+Two limits follow, and they matter for everything that comes after.
 
-One year towers over everything else: 1994, at roughly 820,000 deaths. Nothing in the rest of the series comes close. The largest recent peaks — around 318,000 in 2022 and around 245,000 in 2025 — are enormous in absolute terms, and still they sit far below 1994. A mid-scale year like 2014, around 150,000, barely registers as a bump beside it.
+**These are not all the deaths caused by war.** They are estimates of directly documented deaths, captured under UCDP's definitions, its source coverage and its inclusion rules. Deaths from displacement, hunger, collapsed hospitals — the indirect toll, which can exceed the direct one — are not in this dataset. "The toll," throughout this article, means the toll as measured inside that framework.
 
-A curve shaped like this is not a trend. You can draw a line through it, but the line is a fiction: it averages together a quiet year and a catastrophic one and reports something that describes neither. What the chart actually shows is a sequence of shocks of wildly unequal size, most of them small, a few of them immense.
+**And the clock starts in 1989**, because that is when UCDP's globally comparable record begins. It is not when modern mass violence begins. Everything before it sits outside every total here.
 
-One caveat belongs here, before any number is read too confidently. This series begins in 1989, where UCDP's event-level global coverage starts. It does not reach back to earlier mass-fatality conflicts — the killings in Cambodia in the 1970s, among others, fall entirely outside it. Nineteen eighty-nine is where these records begin, not where modern mass violence begins. Every figure in this article is a statement about what is inside this window, and nothing about what came before it.
+Keep both in mind. They are not fine print; they are the boundary of what any of this can say.
 
-## Seven years carry half of it
+## The curve
 
-It would be easy to assume 1994 is the whole story — one freak year, and the rest a gentle background. It isn't. The concentration holds across the entire period.
+Here is the annual global total, year by year.
 
-Sort all thirty-seven years by their death toll and add them up from the top. You cross half of the full 1989–2025 total — roughly 2.13 million of about 4.26 million deaths — after just seven years. Those seven are 1994, 2022, 2025, 2021, 2024, 2023 and 2014. Seven years hold half; the remaining thirty hold the other half.
+![Annual UCDP organized-violence deaths from 1989 to 2025, using the best fatality estimate. The 2021–2025 interval is highlighted because all five years belong to the seven-year headline set.](../figures/seven-years-out-of-thirty-seven/figure_01_annual_recorded_deaths.png)
 
-![The 37 years sorted from deadliest to least deadly, with the running cumulative share. The line crosses 50% at the seventh year.](../figures/seven-years-out-of-thirty-seven/fig02_annual_concentration_sorted_bars_cumulative_share.png)
+*Annual UCDP organized-violence deaths, using the best fatality estimate. The shaded interval marks the consecutive 2021–2025 cluster.*
 
-*The 37 years sorted from deadliest to least deadly, with the running cumulative share. The line crosses 50% at the seventh year.*
+One year towers over everything else: **1994, at roughly 824,000 deaths.** The largest recent peaks — about 318,000 in 2022 and 245,000 in 2025 — are enormous by any standard, and still nowhere near it. A year like 2014, at roughly 152,000, looks modest only because of the company it keeps.
 
-The same finding, seen at a finer grain, is even starker. Instead of keeping each year whole, split it by country — so 1994 becomes Rwanda-1994, Afghanistan-1994, and so on, each a single country-year. Rank those. Now only about twenty-two individual country-years are needed to reach the same half of the total. Roughly the top 1% of these country-years carries about half of all deaths; the top 5%, about 72%; the top 10%, about 82%. The vast majority of country-years contribute almost nothing to the sum.
+It is tempting to draw a single line through this and call it a trend. It is equally tempting, seeing that one spike, to say the series has no trend at all. Both readings overreach.
 
-For civilian deaths specifically, the concentration is sharper still: the top 1% of country-years with civilian deaths accounts for around 70% of every civilian death in the panel.
+The defensible statement is narrower: **no single average direction summarises this curve.** It combines long-run variation, a few extreme observations, and a recent run of unusually high totals. And the years between the peaks are not quiet — the median year in this period still records around 84,400 deaths, and the lowest year on record, around 21,190.
 
-None of this says violence is rare, or fading, or contained. It says the toll is not evenly distributed in time — it piles up in a few places and a few years, and the aggregate curve is mostly built from them.
+## Seven years — but seven is not a law of nature
 
-## The same bar, four different catastrophes
+Sort the thirty-seven annual totals from highest to lowest, and add them up from the top. The running total crosses 50% at the seventh year:
 
-Here is where the concentration stops being a statistical curiosity and becomes the point of the whole project. The years that carry the toll are not interchangeable. They are not larger and smaller versions of one thing. They are different kinds of event that happen to produce similar-looking totals.
+**1994, 2022, 2025, 2021, 2024, 2023 and 2014.**
 
-Take the four peaks the curve annotates, and look at what each one is actually made of.
+Together, roughly 2.13 million of the 4.26 million best-estimate deaths recorded across the period — 50.1%.
 
-| Peak year | What kind of event it is | Why it doesn't match the others |
-|---|---|---|
-| 1994 — Rwanda | A genocide, coded as one-sided violence | Rwanda alone accounts for about 94% of the year's deaths, and about 98.5% of its civilian deaths — a campaign directed at a civilian population, not a war between armed forces. |
-| 2014 — Syria | A civil war | Syria carries roughly 52% of the year's total, a concentrated internal armed conflict with many actors — not civilian-dominated in the way 1994 was. |
-| 2022 — Ethiopia and Ukraine | A civil war and an interstate war, in the same year | Ethiopia (about 52%) and Ukraine (about 32%) are two structurally unrelated kinds of conflict compressed into one aggregate number. |
-| 2025 — Ukraine and Sudan | An interstate war and a civilian-exposure rupture | Ukraine (about 37%, mostly non-civilian) and Sudan (about 31%) sit in the same yearly total with opposite civilian profiles — Sudan alone accounts for about 72% of the year's civilian deaths. |
+![The 37 years sorted from highest to lowest best-estimate death total, with the cumulative share. Recent years from 2021 to 2025 are highlighted. The low and high fatality estimates require different numbers of years to cross 50%.](../figures/seven-years-out-of-thirty-seven/figure_02_seven_year_concentration.png)
 
-![The leading contributor to each peak year, labelled by the kind of violence it represents. Bar length reflects each unit's share of that year's total deaths — not the severity, gravity, or moral weight of the events.](../figures/seven-years-out-of-thirty-seven/fig03_peak_story_contributors_by_article_type.png)
+*Under the best estimates, the cumulative share crosses 50% at the seventh year. The exact cutoff is estimate-dependent: ten years under the low estimates, six under the high estimates.*
 
-*The leading contributor to each peak year, labelled by the kind of violence it represents. Bar length reflects each unit's share of that year's total deaths — not the severity, gravity, or moral weight of the events. A longer bar means a larger share of one year's arithmetic, nothing more.*
+**How to read this chart:** each bar is one year, tallest on the left. The rising line is the running share of the total. Where that line crosses the halfway mark is the number in the title.
 
-That caption matters, so it is worth saying plainly in the text as well: the chart above is not a ranking of atrocities. Genocide, civil war, interstate war and civilian-exposure rupture are used here as descriptive categories — different shapes that lethal violence can take — never as rungs on a ladder of severity. Placing Rwanda 1994 near Ukraine or Sudan 2025 on the same axis is not a claim that one is worse, more tragic, or more historically significant than another. It is a claim that they are not the same phenomenon, and that averaging them into a single "conflict deaths" trend hides exactly what makes each one what it is.
+Now, the honest part. That crossing point moves depending on which UCDP estimate you use:
 
-That is the sentence to hold onto: a genocide, a civil war, an interstate invasion and a civilian-exposure rupture can produce a similar-looking bar on a chart. They are not similar events.
+- under the **low** estimates, it takes **10 years** to reach half;
+- under the **best** estimates, **7 years**;
+- under the **high** estimates, **6 years**.
 
-## What this does not say — and the case that makes the limit visible
+Seven is a real result, not an arbitrary one — but it is a result *under a specific estimate*, not a fixed property of history. What survives across all three: **a small minority of years carries a large share of the recorded total.** That is the finding. The precise integer is a detail of measurement.
 
-Everything above rests on one convention:
+The recent cluster survives too. Those five consecutive years, 2021 to 2025, account for **27.2%** of the entire thirty-seven-year total on their own. Whatever else the series is doing, it is not doing nothing lately.
 
-**A country-year contributor is not a perpetrator. A share of annual deaths is not a verdict.**
+## Zooming in: the unit-year
 
-In this panel, deaths are grouped under an analytical unit and a year. That grouping tells us where a record enters the arithmetic. It does not tell us who killed whom, who was targeted, what nationality the victims held, or how the violence should be classified in law or history. Those questions require actor-level and event-level analysis.
+To go further, the data has to be cut more finely — and that requires one piece of vocabulary. It is the only one you need.
 
-![The 2025 global organized-violence death total divided among Ukraine, Sudan, the Israel–2025 analytical unit and all other analytical units, alongside a panel explaining that country-year grouping does not identify perpetrators or victims.](../figures/seven-years-out-of-thirty-seven/fig04_country_year_contribution_not_attribution_2025.png)
+> **A unit-year is one place, in one year.**
+>
+> Ukraine in 2022 is a unit-year. Ukraine in 2023 is a different one. Rwanda in 1994 is a third. Every death UCDP records lands in exactly one of these boxes.
+>
+> ConflictLens calls it a *unit*-year rather than a *country*-year for a boring but necessary reason: a few analytical units in the data do not map cleanly onto a sovereign country. Treating the box as "a place, in a year" is the right instinct.
+>
+> A unit-year only counts in the analysis below if the unit actually **existed** that year — no phantom rows for countries before they came into being. That leaves **9,068** unit-years across the period. Of those, **2,067** recorded at least one death.
 
-*The 2025 total grouped by country-year analytical unit. Shares represent statistical assignments in the panel, not perpetrator attributions. The chart does not identify who killed whom, who was targeted, victim nationality, or legal and historical classification.*
+That second number is worth sitting with for a moment. Of the 9,068 existence-checked unit-years, 2,067 record at least one death, 5,067 record zero, and 1,934 have no value for this measure. In other words, just over half are observed zeros; missing values must not be treated as evidence that no violence occurred.
 
-The row labelled **Israel–2025** makes this boundary concrete. It contains about 14,600 organized-violence deaths, or 5.9% of the 2025 global total, making it the third-largest statistical contribution that year.
+## Concentration gets sharper at this grain
 
-The figure supports that arithmetic statement — and only that statement. It does not attribute those deaths to the Israeli state, to any other actor, or to any category of victim. The country-year is an aggregation key, not a finding about responsibility.
+Rank only the 2,067 unit-years that recorded at least one death — call it the **positive distribution** — and add them from the top, exactly as we did with the years.
 
-The same rule applies to every country-year in this article. Here, it is simply hardest to overlook.
+**Twenty-two unit-years are enough to pass half of all recorded deaths.**
 
-## Deadliness is not spread
+Twenty-two out of 2,067 positive boxes: about 1.06% of them. Out of all 9,068 existence-checked boxes: 0.24%.
 
-There is one more distinction the aggregate curve blurs, and it is worth separating before closing.
+Among those 2,067 positive unit-years:
 
-Intensity — how many people die — is not the same as diffusion — how many places are touched. They are different axes, and they don't move together.
+- the top 1% carries **49.8%** of best-estimate deaths;
+- the top 5% carries **71.9%**;
+- the top 10% carries **81.9%**.
 
-Across the whole period, the number of analytical units recording any lethal organized violence in a given year stays inside a fairly narrow band: roughly 45 to 68 units, year after year. That range barely widens even as annual death totals swing from the low tens of thousands up to the roughly 820,000 of 1994. The deadliest year on record is not the year violence was most widely spread; it is a year whose toll was overwhelmingly concentrated in a single country.
+The same uncertainty caveat applies here: it takes 30 unit-years under the low estimates, 22 under the best, and 17 under the high.
 
-![Each point is one year: deaths on the vertical axis, number of units with any lethal violence on the horizontal. A year can be extreme in one dimension and ordinary in the other.](../figures/seven-years-out-of-thirty-seven/fig05_intensity_vs_diffusion_scatter.png)
+Civilian deaths concentrate harder still. Among the 1,730 unit-years with at least one coded civilian death, the top 1% accounts for **69.5%** of the total civilian-death estimate.
 
-*Each point is one year: deaths on the vertical axis, number of units with any lethal violence on the horizontal. A year can be extreme in one dimension and ordinary in the other.*
+**What this does not mean.** It does not mean violence is rare, or that most of the world is at peace, or that a zero and a missing value are the same thing. It is a statement about how a recorded total accumulates across the boxes that have something in them. Nothing more.
 
-So a year can be catastrophically deadly without being the year conflict reached the most corners of the world — and a widely spread year need not be an especially deadly one. Collapsing both into a single curve loses that difference entirely.
+## The same size, different shapes
 
-## Where to look closer
+A tall bar on the annual curve tells you how much. It tells you nothing about what.
 
-The global curve is real. So is the concentration behind it. Both matter, and neither one is a story about trends. Together they are closer to a map — a map of where the toll actually piles up, and a warning that the piles are not the same kind of thing.
+The large contributors to peak years do not look alike once you open them: they differ in how much of their year they carry, in how much of their own total is coded as civilian, and in what kinds of events UCDP recorded.
 
-That is the whole purpose of starting a conflict-analysis project here rather than with a headline number. Data can reveal structure: it can show you that seven years hold half the toll, that a genocide and an interstate war can cast the same shadow on a chart, that intensity and spread are different measurements. What data cannot do is stand in for the historical, political, actor-level and event-level analysis that tells you what any one of these years actually was. The structure is an invitation to look closer, not a substitute for looking.
+| Selected contributor | Share of annual best-estimate deaths | Coded civilian share within the contributor |
+|---|---:|---:|
+| Rwanda — 1994 | 93.7% | 99.8% |
+| Syrian Arab Republic — 2014 | 51.9% | 23.0% |
+| Ethiopia — 2022 | 51.9% | 1.5% |
+| Ukraine — 2022 | 31.6% | 19.2% |
+| Ukraine — 2025 | 36.8% | 2.9% |
+| Sudan — 2025 | 30.6% | 87.7% |
 
-If the first lesson is that conflict deaths concentrate instead of spreading, the second is what that concentration actually looks like underneath — why a handful of extreme observations can dominate a total, and why that makes averages the wrong tool for this kind of data. That is the subject of the next article, *Anatomy of concentration*.
+![Selected peak contributors shown by their share of the annual best-estimate total. Colour reflects the coded civilian share within each contributor.](../figures/seven-years-out-of-thirty-seven/figure_03_peak_contributors_by_profile.png)
+
+*Bar length shows contribution to the annual total. Colour shows the coded civilian share within that contributor. Neither is a ranking of severity, responsibility or moral weight.*
+
+Read the two columns separately. The first says how much of a year's total sits in that box. The second says how much of *that box's own* toll is coded as civilian deaths — and note "coded": the remainder is not simply "combatants," it also contains deaths whose status the source could not establish.
+
+The contrasts are visible in the measurements. Rwanda dominates both the 1994 annual total and its civilian-death estimate. In 2022, Ethiopia and Ukraine together carry more than four fifths of the year — with very different civilian shares. In 2025, Ukraine and Sudan contribute similarly large totals while their recorded civilian profiles sit near opposite ends of these selected cases.
+
+Event composition adds another layer. Rwanda-1994 is overwhelmingly one-sided by event count. Syria-2014 mixes a state-based majority with non-state and one-sided events. Ukraine-2025 is almost entirely state-based; Sudan-2025 combines a state-based majority with a substantial one-sided component.
+
+And here the panel stops. These recorded profiles do not, on their own, establish that one case is a genocide, another a civil war, another an interstate war. Those are historical and legal classifications, and they require actor-level, conflict-level and contextual evidence that an aggregate panel does not contain. What the panel can do is show that the shapes differ, and say where a closer look is warranted.
+
+## Contributing is not perpetrating
+
+One convention holds up every country-level number above, and it needs stating plainly:
+
+**A unit-year contributor is not a perpetrator. A share of an annual total is not a verdict.**
+
+The panel groups deaths by place and year. That tells you where a value enters the arithmetic after the project's source mapping. It says nothing about who killed whom, who was targeted, the nationality of the victims, or the correct legal and historical name for what happened.
+
+![The 2025 global best-estimate total divided among Ukraine, Sudan, the Israel–2025 analytical unit and all other analytical units, alongside the interpretive limits of country-year grouping.](../figures/seven-years-out-of-thirty-seven/figure_04_country_year_contribution_2025.png)
+
+*The 2025 total grouped by analytical unit. Shares are statistical contributions to the panel total, not perpetrator attributions.*
+
+The row labelled **Israel–2025 analytical unit** makes that boundary concrete. It carries a best estimate of 14,563 organized-violence deaths — 5.9% of the 2025 global total, the third-largest statistical contribution that year.
+
+That sentence is arithmetic, and arithmetic is all it is. It does not attribute those deaths to the Israeli state, to any other actor, or to any category of victim. The same restriction applies without exception to Ukraine, to Sudan, and to every other unit-year in this article.
+
+## Deadly is not the same as widespread
+
+One last distinction, because the annual curve invites a specific confusion.
+
+**Intensity** is how many deaths a year records. **Diffusion** is how many places record any at all. They are different questions, and the data answers them differently: annual best-estimate deaths range from about 21,000 to 824,000 — a factor of nearly forty — while the number of units recording at least one death moves only between 44 and 67.
+
+![Annual best-estimate deaths plotted against the number of analytical units with at least one positive best-estimate death. The two dimensions are moderately associated but not interchangeable.](../figures/seven-years-out-of-thirty-seven/figure_05_intensity_vs_diffusion.png)
+
+*Intensity and diffusion have a moderate positive rank association of about 0.58. A year can nevertheless occupy very different positions on the two axes.*
+
+They are not unrelated. Across the thirty-seven years their rank association is positive and moderate, about 0.58 — deadlier years do tend to be somewhat wider years. But neither one determines the other.
+
+The 1994 maximum involves 58 units and is dominated by a single one. The widest year on this measure is 2022, at 67 units — and it is also the second-deadliest. But 2019 reaches 66 units while its total, around 78,500 deaths, sits close to the period median.
+
+So the conclusion is not that the two axes are independent. It is that **a global death total cannot, by itself, tell you how widely violence is spread** — and a wide year is not automatically a deadly one.
+
+## Two structures, not one
+
+The curve is real. So is the concentration underneath it. Concentration does not cancel the temporal pattern, and the pattern does not dissolve the concentration.
+
+Under UCDP's best estimates, seven years carry half of the measured 1989–2025 total — six or ten, depending on which estimate you trust. One extraordinary year, 1994, dominates the whole window. And five consecutive recent years sit inside that same seven-year set.
+
+Look below the annual totals and a second distinction appears: peaks of similar height can be assembled from very different things. A country-year panel can expose that difference and point to where the interesting question is. It cannot answer the question. That still takes the actor-level, event-level and historical work that no aggregate replaces.
+
+Which is the point of the headline. Not to compress four decades into seven bars, but to show why the global total has to be opened before it can be read.
 
 ## Sources
 
-- UCDP (Uppsala Conflict Data Program, Uppsala University) — <https://uu.se/en/department/peace-and-conflict-research/research/ucdp>. Two UCDP datasets underpin this article's headline figures:
-  - UCDP Georeferenced Event Dataset (GED), v26.1 — event-level, the primary conflict source.
-  - UCDP Organized Violence dataset, v26.1 — country-year aggregate, used for cross-checking the annual totals.
-- ACLED (Armed Conflict Location & Event Data Project) — <https://acleddata.com>, used as a complementary benchmark, not as the primary conflict count.
-- V-Dem (Varieties of Democracy, University of Gothenburg / V-Dem Institute) — <https://v-dem.net>, V-Dem-CY-Full+Others v16 — political and institutional context.
-- WDI (World Bank, World Development Indicators) — <https://databank.worldbank.org/source/world-development-indicators> — socioeconomic context.
-- The concentration and peak-year figures in this piece are computed from UCDP data only (GED + Organized Violence). ACLED, V-Dem and WDI are part of ConflictLens' wider country-year panel and are not used in this article's headline numbers.
+- UCDP (Uppsala Conflict Data Program, Uppsala University) — <https://ucdp.uu.se/downloads/>.
+  - UCDP Country-Year Dataset on Organized Violence within Country Borders, v26.1 — annual low, best and high estimates and country-year definitions.
+  - UCDP Georeferenced Event Dataset, v26.1 — event-level fatality estimates and event-type composition.
+- UCDP OrganizedViolenceCY v26.1 codebook — <https://ucdp.uu.se/downloads/organizedviolencecy/UCDP_OrganizedViolenceCY_Codebook_261.pdf>.
+- The calculations in this article use UCDP data only. ACLED, V-Dem and WDI remain part of the wider ConflictLens analytical panel but are not used for the findings above.
 
 ## Analysis notebooks
 
-**Repo**
+**Repo**  
 [ConflictLens repository](https://github.com/llafon-analytics/conflictlens)
 
-**Notebooks**
-[Country-year analysis](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/core/03_conflictlens_country_year_analysis.ipynb) — builds and validates the country-year analytical framework, documents the attribution and concentration metrics, and provides the core results reused by the article notebooks.
-[Reproduction notebook — Seven years out of thirty-seven](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/articles/01_seven_years_out_of_thirty_seven.ipynb) — recomputes the figures, statistics, and annotations used in the article and asserts the validated results.
+**Notebooks**  
+[Country-year analysis](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/core/03_conflictlens_country_year_analysis.ipynb) — builds and validates the country-year analytical framework, including concentration, attribution and sensitivity diagnostics.  
+[Reproduction notebook — Seven years out of thirty-seven](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/articles/01_seven_years_out_of_thirty_seven.ipynb) — recomputes every figure, statistic and annotation used above, tests low / best / high estimate sensitivity, and asserts the revised results.
