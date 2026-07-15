@@ -1,0 +1,17 @@
+{
+  "figure_id": "figure_03",
+  "article": "seven-years-out-of-thirty-seven",
+  "notebook": "01_seven_years_out_of_thirty_seven.ipynb",
+  "metric": "Selected contributor share of annual deaths and coded civilian share within contributor",
+  "analytical_universe": "Selected contributors in 1994, 2014, 2022 and 2025",
+  "period": "1989–2025",
+  "source": "UCDP Organized Violence v26.1; ConflictLens calculations.",
+  "export_profile": "wide",
+  "width_px": 2392,
+  "height_px": 1444,
+  "dpi": 200,
+  "generated_at": "2026-07-13T12:15:53.273645+00:00",
+  "notes": "No historical, legal or perpetrator typology is inferred. Colour encodes the contributor-level coded civilian share.",
+  "font_sans": "DejaVu Sans",
+  "font_mono": "DejaVu Sans Mono"
+}
