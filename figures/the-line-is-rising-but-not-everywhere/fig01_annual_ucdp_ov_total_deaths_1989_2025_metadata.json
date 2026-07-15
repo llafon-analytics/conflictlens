@@ -1,0 +1,39 @@
+{
+  "figure_id": "fig01",
+  "title": "Recent recorded deaths are elevated, but the path is not monotonic",
+  "article_slug": "the-line-is-rising-but-not-everywhere",
+  "caption": "Annual UCDP organized-violence deaths, best estimates, 1989–2025. The 2021–2025 sequence accounts for 27.2% of the period total, but annual values rise, fall and rise again rather than forming a smooth global trend.",
+  "alt_text": "Line chart of annual UCDP organized-violence deaths from 1989 to 2025. The largest peak is 1994 at 824,177 deaths. The recent sequence is elevated, with 317,936 in 2022 and 245,464 in 2025, but it is uneven rather than steadily rising.",
+  "source": "UCDP Organized Violence v26.1; ConflictLens calculations.",
+  "measure": "Annual UCDP Organized Violence total deaths, best estimate",
+  "universe": "Validated ConflictLens analysis-conflict universe; existing analysis units; global annual sum",
+  "period": "1989-2025",
+  "filters": [
+    "analysis_conflict_universe == True",
+    "unit_exists_in_year == True"
+  ],
+  "profile": "wide",
+  "notebook": "notebooks/articles/03_the_line_is_rising_but_not_everywhere.ipynb",
+  "source_commit": "d5b7d6d6165e9409828e6652c58bbcd65f7c34a3",
+  "source_commit_status": "Detected from Git metadata.",
+  "categorical_mapping": {
+    "Annual total": {
+      "color": "#102A43",
+      "treatment": "solid line"
+    },
+    "Recent window": {
+      "color": "#D4A44C",
+      "treatment": "light focus band"
+    }
+  },
+  "width_px": 2400,
+  "height_px": 1440,
+  "dpi": 200,
+  "pad_inches": 0.16,
+  "background": "opaque white",
+  "font_sans": "DejaVu Sans",
+  "font_mono": "DejaVu Sans Mono",
+  "ibm_plex_available": false,
+  "notes": "The full 1994 peak is preserved. Copper marks the analytical focus window and three focal points only.",
+  "generated_at_utc": "2026-07-13T12:02:24.731728+00:00"
+}

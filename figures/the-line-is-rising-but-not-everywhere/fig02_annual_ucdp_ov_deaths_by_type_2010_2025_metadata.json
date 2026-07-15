@@ -1,0 +1,44 @@
+{
+  "figure_id": "fig02",
+  "title": "The 2025 increase has a different recorded composition",
+  "article_slug": "the-line-is-rising-but-not-everywhere",
+  "caption": "Annual UCDP organized-violence deaths by category, best estimates, 2010–2025. Between 2024 and 2025, the total rises by 57,255, while one-sided deaths rise by 62,026; state-based and non-state deaths both decline slightly.",
+  "alt_text": "Stacked annual bars for state-based, non-state and one-sided violence from 2010 to 2025. The 2022 peak is mostly state-based. In 2025, the total increases by about 57,255 from 2024, while the one-sided component increases by about 62,026 and becomes much larger than in prior years.",
+  "source": "UCDP Organized Violence v26.1; ConflictLens calculations.",
+  "measure": "Annual UCDP Organized Violence deaths by state-based, non-state and one-sided category, best estimates",
+  "universe": "Validated ConflictLens analysis-conflict universe; existing analysis units; global annual sums",
+  "period": "2010-2025",
+  "filters": [
+    "analysis_conflict_universe == True",
+    "unit_exists_in_year == True",
+    "guarded zero-fill only where ucdp_ov_can_zero_fill == True"
+  ],
+  "profile": "wide",
+  "notebook": "notebooks/articles/03_the_line_is_rising_but_not_everywhere.ipynb",
+  "source_commit": "d5b7d6d6165e9409828e6652c58bbcd65f7c34a3",
+  "source_commit_status": "Detected from Git metadata.",
+  "categorical_mapping": {
+    "State-based": {
+      "color": "#102A43",
+      "treatment": "solid fill"
+    },
+    "Non-state": {
+      "color": "#3E7A78",
+      "treatment": "diagonal hatch"
+    },
+    "One-sided": {
+      "color": "#D4A44C",
+      "treatment": "dotted hatch; focal category"
+    }
+  },
+  "width_px": 2400,
+  "height_px": 1440,
+  "dpi": 200,
+  "pad_inches": 0.16,
+  "background": "opaque white",
+  "font_sans": "DejaVu Sans",
+  "font_mono": "DejaVu Sans Mono",
+  "ibm_plex_available": false,
+  "notes": "Stacked bars encode a real composition. Stable order and hatches preserve interpretation in grayscale.",
+  "generated_at_utc": "2026-07-13T12:02:25.466735+00:00"
+}

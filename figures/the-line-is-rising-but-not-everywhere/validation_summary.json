@@ -1,0 +1,28 @@
+{
+  "article_slug": "the-line-is-rising-but-not-everywhere",
+  "notebook": "notebooks/articles/03_the_line_is_rising_but_not_everywhere.ipynb",
+  "source_commit": "d5b7d6d6165e9409828e6652c58bbcd65f7c34a3",
+  "source_commit_status": "Detected from Git metadata.",
+  "analysis_ready_input": "C:\\Users\\sni.digital1\\Documents\\avg\\outputs\\02_analysis_unit_year_panel_analysis_ready.parquet",
+  "staging_input": "C:\\Users\\sni.digital1\\Documents\\avg\\outputs\\02_country_year_panel_staging.parquet",
+  "ucdp_raw_sensitivity_input": "C:\\Users\\sni.digital1\\Documents\\avg\\data\\ucdp\\organizedviolencecy-261-csv.zip",
+  "python": "3.12.10",
+  "package_versions": {
+    "pandas": "3.0.3",
+    "numpy": "2.5.1",
+    "matplotlib": "3.11.0",
+    "pyarrow": "25.0.0",
+    "PIL": "12.3.0"
+  },
+  "font_sans": "DejaVu Sans",
+  "font_mono": "DejaVu Sans Mono",
+  "ibm_plex_available": false,
+  "checks_passed": 59,
+  "checks_total": 59,
+  "all_checks_passed": true,
+  "mobile_inspection": {
+    "width_css_px": 360,
+    "status": "Previews generated for explicit visual inspection; final manual review recorded in the implementation report."
+  },
+  "generated_at_utc": "2026-07-13T12:02:25.606309+00:00"
+}
