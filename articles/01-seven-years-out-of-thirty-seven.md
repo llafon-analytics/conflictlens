@@ -2,11 +2,11 @@
 title: "Seven years out of thirty-seven. Half the toll."
 subtitle: "Under UCDP's best estimates, seven years carry half the 1989–2025 recorded total. Five of them are consecutive."
 author: "Ludovic Lafon"
-date: "2026-07-13"
+date: "2026-07-09"
 reading_time: "9 min read"
 excerpt: "Seven years account for half of UCDP's best-estimate organized-violence deaths since 1989. But the exact cutoff depends on fatality uncertainty, and five of those years form a recent consecutive cluster."
-slug: "seven-years-out-of-thirty-seven"
-status: "draft"
+slug: "seven-years-out-of-thirty-seven-half-the-toll"
+status: "published"
 ---
 
 # Seven years out of thirty-seven. Half the toll.
