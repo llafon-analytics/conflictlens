@@ -2,11 +2,11 @@
 title: "Seven years out of thirty-seven. Half the toll."
 subtitle: "Under UCDP's best estimates, seven years carry half the 1989–2025 recorded total. Five of them are consecutive."
 author: "Ludovic Lafon"
-date: "2026-07-09"
+date: "2026-07-13"
 reading_time: "9 min read"
 excerpt: "Seven years account for half of UCDP's best-estimate organized-violence deaths since 1989. But the exact cutoff depends on fatality uncertainty, and five of those years form a recent consecutive cluster."
-slug: "seven-years-out-of-thirty-seven-half-the-toll"
-status: "published"
+slug: "seven-years-out-of-thirty-seven"
+status: "draft"
 ---
 
 # Seven years out of thirty-seven. Half the toll.
@@ -178,17 +178,17 @@ Which is the point of the headline. Not to compress four decades into seven bars
 
 ## Sources
 
-- UCDP (Uppsala Conflict Data Program, Uppsala University) — <https://ucdp.uu.se/downloads/>.
+- UCDP (Uppsala Conflict Data Program, Uppsala University) — *<https://ucdp.uu.se/downloads/>*.
   - UCDP Country-Year Dataset on Organized Violence within Country Borders, v26.1 — annual low, best and high estimates and country-year definitions.
   - UCDP Georeferenced Event Dataset, v26.1 — event-level fatality estimates and event-type composition.
-- UCDP OrganizedViolenceCY v26.1 codebook — <https://ucdp.uu.se/downloads/organizedviolencecy/UCDP_OrganizedViolenceCY_Codebook_261.pdf>.
+- UCDP OrganizedViolenceCY v26.1 codebook — *<https://ucdp.uu.se/downloads/organizedviolencecy/UCDP_OrganizedViolenceCY_Codebook_261.pdf>*.
 - The calculations in this article use UCDP data only. ACLED, V-Dem and WDI remain part of the wider ConflictLens analytical panel but are not used for the findings above.
 
 ## Analysis notebooks
 
 **Repo**  
-[ConflictLens repository](https://github.com/llafon-analytics/conflictlens)
+[*ConflictLens repository*](https://github.com/llafon-analytics/conflictlens)
 
 **Notebooks**  
-[Country-year analysis](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/core/03_conflictlens_country_year_analysis.ipynb) — builds and validates the country-year analytical framework, including concentration, attribution and sensitivity diagnostics.  
-[Reproduction notebook — Seven years out of thirty-seven](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/articles/01_seven_years_out_of_thirty_seven.ipynb) — recomputes every figure, statistic and annotation used above, tests low / best / high estimate sensitivity, and asserts the revised results.
+[*Country-year analysis*](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/core/03_conflictlens_country_year_analysis.ipynb) — builds and validates the country-year analytical framework, including concentration, attribution and sensitivity diagnostics.
+[*Reproduction notebook — Seven years out of thirty-seven*](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/articles/01_seven_years_out_of_thirty_seven.ipynb) — recomputes every figure, statistic and annotation used above, tests low / best / high estimate sensitivity, and asserts the revised results.
