@@ -1,0 +1,17 @@
+panel,year,segment_order,segment,contributor_id,contributor_label,value,share,annual_total
+"Same total, same shape",1990,1,1st contributor,ETH,Ethiopia,49856.0,0.5206784192497285,95752.0
+"Same total, same shape",1990,2,2nd contributor,SDN,Sudan,5335.0,0.05571685186732392,95752.0
+"Same total, same shape",1990,3,3rd contributor,LKA,Sri Lanka,4840.0,0.0505472470548918,95752.0
+"Same total, same shape",1990,4,All remaining positive units,REST,All remaining positive units,35721.0,0.3730574818280558,95752.0
+"Same total, same shape",2000,1,1st contributor,ETH,Ethiopia,48666.0,0.5113693678547411,95168.0
+"Same total, same shape",2000,2,2nd contributor,AFG,Afghanistan,5394.0,0.05667871553463349,95168.0
+"Same total, same shape",2000,3,3rd contributor,COL,Colombia,4418.0,0.04642316745124411,95168.0
+"Same total, same shape",2000,4,All remaining positive units,REST,All remaining positive units,36690.0,0.3855287491593813,95168.0
+"Same total, different shape",2013,1,1st contributor,SYR,Syria,76500.0,0.6620166845512133,115556.0
+"Same total, different shape",2013,2,2nd contributor,AFG,Afghanistan,8131.0,0.07036415244556751,115556.0
+"Same total, different shape",2013,3,3rd contributor,MEX,Mexico,4480.0,0.03876908165737824,115556.0
+"Same total, different shape",2013,4,All remaining positive units,REST,All remaining positive units,26445.0,0.22885008134584098,115556.0
+"Same total, different shape",2017,1,1st contributor,SYR,Syria,38532.0,0.33895740600643925,113678.0
+"Same total, different shape",2017,2,2nd contributor,AFG,Afghanistan,19784.0,0.17403543341719593,113678.0
+"Same total, different shape",2017,3,3rd contributor,IRQ,Iraq,11437.0,0.1006087369587783,113678.0
+"Same total, different shape",2017,4,All remaining positive units,REST,All remaining positive units,43925.0,0.38639842361758653,113678.0

@@ -1,0 +1,26 @@
+{
+  "figure_id": "fig00",
+  "title": "Almost the same annual total",
+  "article_slug": "two-years-almost-the-same-toll",
+  "caption": "Worldwide best-estimate totals for 2013 and 2017 on a common zero-based scale: 115,556 and 113,678, a difference of 1,878 deaths (1.6%).",
+  "alt_text": "Two horizontal bars on a common zero-based scale. The 2013 total is 115,556; the 2017 total is 113,678. Their difference is 1,878 deaths, or 1.6%.",
+  "source": "UCDP Organized Violence v26.1; ConflictLens calculations.",
+  "measure": "Worldwide annual recorded deaths, best estimate",
+  "universe": "analysis_conflict_universe",
+  "guard": "unit_exists_in_year",
+  "period": "2013 and 2017",
+  "notebook": "notebooks/articles/01b_two_years_almost_the_same_toll.ipynb",
+  "source_commit": "2354f0ad170dff77074279b61297ca7bc4147005",
+  "x_scale": "linear; common zero baseline; ceiling 120,000",
+  "notes": "Opening figure communicates near-equality of volume only; concentration is deliberately withheld for the later structural comparison.",
+  "profile": "opening",
+  "width_px": 1600,
+  "height_px": 640,
+  "background": "transparent article canvas; preview composited on white",
+  "fonts": {
+    "sans_used": "DejaVu Sans",
+    "mono_used": "DejaVu Sans Mono",
+    "ibm_plex_available": false
+  },
+  "generated_at_utc": "2026-07-16T13:50:43.294770+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "figure_id": "fig03",
+  "title": "One large fall, two offsetting increases",
+  "article_slug": "two-years-almost-the-same-toll",
+  "caption": "Difference in recorded deaths between the 2017 and 2013 best-estimate endpoints. The leading contribution is 37,968 lower in 2017; the other two ranked components are 36,090 higher together, leaving the global total 1,878 lower. The bars compare two endpoint distributions; they do not represent flows.",
+  "alt_text": "Diverging horizontal bars centred on zero. The leading contribution is 37,968 lower in 2017, while the second and third contributors are 18,610 higher and contributors ranked fourth or lower are 17,480 higher. The global total changes from 115,556 to 113,678, a difference of -1,878.",
+  "source": "UCDP Organized Violence v26.1; ConflictLens calculations.",
+  "measure": "2017 minus 2013 endpoint difference by ranked component",
+  "universe": "analysis_conflict_universe",
+  "guard": "unit_exists_in_year",
+  "period": "2013 and 2017 endpoints",
+  "notebook": "notebooks/articles/01b_two_years_almost_the_same_toll.ipynb",
+  "source_commit": "2354f0ad170dff77074279b61297ca7bc4147005",
+  "notes": "Zero-centred endpoint differences. Negative means lower in 2017; positive means higher in 2017. Bars must not be interpreted as temporal flows or stable geographic groups.",
+  "profile": "inline",
+  "width_px": 1639,
+  "height_px": 1000,
+  "background": "transparent article canvas; preview composited on white",
+  "fonts": {
+    "sans_used": "DejaVu Sans",
+    "mono_used": "DejaVu Sans Mono",
+    "ibm_plex_available": false
+  },
+  "generated_at_utc": "2026-07-16T13:50:45.495183+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "figure_id": "fig02",
+  "title": "Annual total and leading-contributor share, 1989–2025",
+  "article_slug": "two-years-almost-the-same-toll",
+  "caption": "Annual total against leading-contributor share, 1989–2025, with a logarithmic horizontal axis. The two move together (Spearman ρ = 0.82), but the spread around that tendency is wide. 1994 sits at 824,177 deaths and a 93.7% leading share.",
+  "alt_text": "Scatter plot of all 37 years. The cloud slopes upward. 1990 and 2000 nearly overlap. 2013 and 2017 have similar totals but leading shares of 66.2% and 33.9%.",
+  "source": "UCDP Organized Violence v26.1; ConflictLens calculations.",
+  "measure": "Annual total and rank-1 contributor share",
+  "universe": "analysis_conflict_universe",
+  "guard": "unit_exists_in_year",
+  "period": "1989-2025",
+  "notebook": "notebooks/articles/01b_two_years_almost_the_same_toll.ipynb",
+  "source_commit": "2354f0ad170dff77074279b61297ca7bc4147005",
+  "x_scale": "logarithmic; full-period range is ×38.9 and 1994 is retained",
+  "notes": "No fitted line: the correlation is reported in the caption to avoid causal framing.",
+  "profile": "inline",
+  "width_px": 1600,
+  "height_px": 1000,
+  "background": "transparent article canvas; preview composited on white",
+  "fonts": {
+    "sans_used": "DejaVu Sans",
+    "mono_used": "DejaVu Sans Mono",
+    "ibm_plex_available": false
+  },
+  "generated_at_utc": "2026-07-16T13:50:45.057352+00:00"
+}

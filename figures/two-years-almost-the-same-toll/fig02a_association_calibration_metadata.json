@@ -1,0 +1,27 @@
+{
+  "figure_id": "fig02a",
+  "title": "How strong is 0.82? Four patterns of association, from none to perfect.",
+  "article_slug": "two-years-almost-the-same-toll",
+  "caption": "Each dot is a year; the closer the cloud hugs the rising diagonal, the stronger the link. Our 37 years sit at 0.82 — clearly rising together, with visible exceptions. The three grey panels are illustrative references; only the amber 0.82 panel is real data.",
+  "alt_text": "Calibration strip with four scatter panels. Each panel plots total rank horizontally and concentration rank vertically. The weak reference has rho 0.20, the moderate reference 0.50, the amber real-data panel 0.82, and the perfect reference 1.00. A rising diagonal marks perfect rank agreement.",
+  "source": "UCDP Organized Violence v26.1 for the amber panel; deterministic ConflictLens illustrations for the grey panels.",
+  "measure": "Normalized ranks of annual total and leading-contributor share",
+  "universe": "analysis_conflict_universe",
+  "guard": "unit_exists_in_year",
+  "period": "1989-2025",
+  "notebook": "notebooks/articles/01b_two_years_almost_the_same_toll.ipynb",
+  "source_commit": "2354f0ad170dff77074279b61297ca7bc4147005",
+  "x_scale": "within-panel rank normalized to 0–1",
+  "y_scale": "within-panel rank normalized to 0–1",
+  "notes": "Spearman correlation is Pearson correlation over ranks. Grey panels are deterministic calibration references with 37 synthetic paired ranks; only the amber panel uses observed yearly ranks.",
+  "profile": "calibration",
+  "width_px": 2408,
+  "height_px": 960,
+  "background": "transparent article canvas; preview composited on white",
+  "fonts": {
+    "sans_used": "DejaVu Sans",
+    "mono_used": "DejaVu Sans Mono",
+    "ibm_plex_available": false
+  },
+  "generated_at_utc": "2026-07-17T08:42:50.873103+00:00"
+}

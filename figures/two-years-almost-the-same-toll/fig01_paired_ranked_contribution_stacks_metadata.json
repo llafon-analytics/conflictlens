@@ -1,0 +1,43 @@
+{
+  "figure_id": "fig01",
+  "title": "Annual totals and their ranked contributors, 1990 · 2000 · 2013 · 2017",
+  "article_slug": "two-years-almost-the-same-toll",
+  "caption": "Left: 1990 and 2000, totals 0.61% apart and ranked concentration profiles very similar. Right: 2013 and 2017, totals 1.6% apart, the widest concentration contrast among the thirteen pairs below the 3% threshold. Each bar is divided into its first, second and third contributor and all remaining positive units.",
+  "alt_text": "Four stacked bars on a common absolute scale. 1990 and 2000 have nearly identical totals and are both led by Ethiopia at 52.1% and 51.1%. 2013 and 2017 have nearly identical totals, but Syria's leading share falls from 66.2% to 33.9%.",
+  "source": "UCDP Organized Violence v26.1; ConflictLens calculations.",
+  "measure": "ucdp_ov_total_deaths_best_zf",
+  "universe": "analysis_conflict_universe",
+  "guard": "unit_exists_in_year",
+  "period": "1989-2025",
+  "notebook": "notebooks/articles/01b_two_years_almost_the_same_toll.ipynb",
+  "source_commit": "2354f0ad170dff77074279b61297ca7bc4147005",
+  "categorical_mapping": {
+    "1st contributor": {
+      "color": "#D4A44C",
+      "alpha": 1.0
+    },
+    "2nd contributor": {
+      "color": "#102A43",
+      "alpha": 1.0
+    },
+    "3rd contributor": {
+      "color": "#243B53",
+      "alpha": 1.0
+    },
+    "All remaining positive units": {
+      "color": "#66788A",
+      "alpha": 0.35
+    }
+  },
+  "notes": "Colour encodes rank, never country. Common absolute scale and zero baseline. White separators preserve grayscale reading.",
+  "profile": "wide",
+  "width_px": 2400,
+  "height_px": 1440,
+  "background": "transparent article canvas; preview composited on white",
+  "fonts": {
+    "sans_used": "DejaVu Sans",
+    "mono_used": "DejaVu Sans Mono",
+    "ibm_plex_available": false
+  },
+  "generated_at_utc": "2026-07-16T13:50:44.272749+00:00"
+}
