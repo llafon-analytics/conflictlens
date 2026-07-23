@@ -1,6 +1,6 @@
 {
   "figure_id": "figure_02",
-  "article": "seven-years-out-of-thirty-seven",
+  "article_slug": "seven-years-out-of-thirty-seven-half-the-toll",
   "notebook": "01_seven_years_out_of_thirty_seven.ipynb",
   "metric": "Ranked annual best-estimate deaths and cumulative share of the 1989–2025 total",
   "analytical_universe": "37 annual global totals, 1989–2025",
@@ -10,7 +10,7 @@
   "width_px": 2402,
   "height_px": 1443,
   "dpi": 200,
-  "generated_at": "2026-07-13T12:15:51.663944+00:00",
+  "generated_at": "2026-07-23T08:36:39.968794+00:00",
   "notes": "The seven-year threshold applies to best estimates. Low and high estimates require 10 and 6 years respectively. Recent 2021–2025 years are highlighted.",
   "font_sans": "DejaVu Sans",
   "font_mono": "DejaVu Sans Mono"

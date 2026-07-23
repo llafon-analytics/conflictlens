@@ -1,6 +1,6 @@
 {
   "figure_id": "figure_05",
-  "article": "seven-years-out-of-thirty-seven",
+  "article_slug": "seven-years-out-of-thirty-seven-half-the-toll",
   "notebook": "01_seven_years_out_of_thirty_seven.ipynb",
   "metric": "Annual best-estimate deaths versus analytical units with positive best-estimate deaths",
   "analytical_universe": "Annual global conflict-universe aggregation, 1989–2025",
@@ -10,7 +10,7 @@
   "width_px": 2385,
   "height_px": 1444,
   "dpi": 200,
-  "generated_at": "2026-07-13T12:15:57.326298+00:00",
+  "generated_at": "2026-07-23T08:36:42.876069+00:00",
   "notes": "The x-axis uses positive fatality estimates, not the broader any-OV indicator. The descriptive rank correlation is reported; no fit or causal claim is added.",
   "font_sans": "DejaVu Sans",
   "font_mono": "DejaVu Sans Mono"

@@ -1,6 +1,6 @@
 {
   "figure_id": "appendix_figure_01",
-  "article": "seven-years-out-of-thirty-seven",
+  "article_slug": "seven-years-out-of-thirty-seven-half-the-toll",
   "notebook": "01_seven_years_out_of_thirty_seven.ipynb",
   "metric": "Composition of GED events by violence type",
   "analytical_universe": "Article-selected peak contributors with validated GED rows",
@@ -10,7 +10,7 @@
   "width_px": 2403,
   "height_px": 1442,
   "dpi": 200,
-  "generated_at": "2026-07-13T12:15:55.895325+00:00",
+  "generated_at": "2026-07-23T08:36:42.211585+00:00",
   "notes": "Original stacked composition, event-count labels and legend preserved.",
   "font_sans": "DejaVu Sans",
   "font_mono": "DejaVu Sans Mono"

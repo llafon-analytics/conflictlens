@@ -1,6 +1,6 @@
 {
   "figure_id": "figure_03",
-  "article": "seven-years-out-of-thirty-seven",
+  "article_slug": "seven-years-out-of-thirty-seven-half-the-toll",
   "notebook": "01_seven_years_out_of_thirty_seven.ipynb",
   "metric": "Selected contributor share of annual deaths and coded civilian share within contributor",
   "analytical_universe": "Selected contributors in 1994, 2014, 2022 and 2025",
@@ -10,7 +10,7 @@
   "width_px": 2392,
   "height_px": 1444,
   "dpi": 200,
-  "generated_at": "2026-07-13T12:15:53.273645+00:00",
+  "generated_at": "2026-07-23T08:36:40.709114+00:00",
   "notes": "No historical, legal or perpetrator typology is inferred. Colour encodes the contributor-level coded civilian share.",
   "font_sans": "DejaVu Sans",
   "font_mono": "DejaVu Sans Mono"

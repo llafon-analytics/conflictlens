@@ -133,7 +133,7 @@ The curve identifies the phenomenon. Understanding it means leaving the curve be
 
 ## Where to look closer
 
-For the first view of how recorded deaths concentrate across years and country-years, see [*Seven years out of thirty-seven. Half the toll.*](/seven-years-out-of-thirty-seven/)
+For the first view of how recorded deaths concentrate across years and country-years, see [*Seven years out of thirty-seven. Half the toll.*](/seven-years-out-of-thirty-seven-half-the-toll/)
 
 For the definitions used above, UCDP publishes its [*category definitions*](https://www.uu.se/en/department/peace-and-conflict-research/research/ucdp/ucdp-definitions) and its [*coding methodology*](https://www.uu.se/en/department/peace-and-conflict-research/research/ucdp/ucdp-methodology) in full. They are short, readable, and repay the ten minutes.
 
@@ -160,4 +160,4 @@ The annual line is worth showing. But it is the beginning of the question, not t
 
 [*Country-year analysis*](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/core/03_conflictlens_country_year_analysis.ipynb) — validates the country-year analytical framework and provides the source results reused here.
 
-[*Reproduction notebook — The line has risen again. But not everywhere.*](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/articles/03_the_line_is_rising_but_not_everywhere.ipynb) — recomputes every article-facing number, exports the two figures and the summary table, tests the low/best/high sensitivity boundaries, and asserts the validated results (59/59 checks).
+[*Reproduction notebook — The line has risen again. But not everywhere.*](https://github.com/llafon-analytics/conflictlens/blob/master/notebooks/articles/01a_the_line_is_rising_but_not_everywhere.ipynb) — recomputes every article-facing number, exports the two figures and the summary table, tests the low/best/high sensitivity boundaries, and asserts the validated results (59/59 checks).

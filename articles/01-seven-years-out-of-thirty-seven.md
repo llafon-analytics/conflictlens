@@ -5,7 +5,7 @@ author: "Ludovic Lafon"
 date: "2026-07-13"
 reading_time: "9 min read"
 excerpt: "Seven years account for half of UCDP's best-estimate organized-violence deaths since 1989. But the exact cutoff depends on fatality uncertainty, and five of those years form a recent consecutive cluster."
-slug: "seven-years-out-of-thirty-seven"
+slug: "seven-years-out-of-thirty-seven-half-the-toll"
 status: "draft"
 ---
 

@@ -1,6 +1,6 @@
 {
   "figure_id": "figure_01",
-  "article": "seven-years-out-of-thirty-seven",
+  "article_slug": "seven-years-out-of-thirty-seven-half-the-toll",
   "notebook": "01_seven_years_out_of_thirty_seven.ipynb",
   "metric": "Annual sum of UCDP organized-violence deaths (best estimate)",
   "analytical_universe": "Existence-bound conflict universe, annual global aggregation",
@@ -10,7 +10,7 @@
   "width_px": 2396,
   "height_px": 1444,
   "dpi": 200,
-  "generated_at": "2026-07-13T12:15:47.760162+00:00",
+  "generated_at": "2026-07-23T08:36:38.424665+00:00",
   "notes": "Best-estimate series. The 2021–2025 interval is highlighted because five consecutive recent years belong to the seven-year headline set.",
   "font_sans": "DejaVu Sans",
   "font_mono": "DejaVu Sans Mono"

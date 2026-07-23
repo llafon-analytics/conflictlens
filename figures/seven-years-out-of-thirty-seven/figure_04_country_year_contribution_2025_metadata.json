@@ -1,6 +1,6 @@
 {
   "figure_id": "figure_04",
-  "article": "seven-years-out-of-thirty-seven",
+  "article_slug": "seven-years-out-of-thirty-seven-half-the-toll",
   "notebook": "01_seven_years_out_of_thirty_seven.ipynb",
   "metric": "Share of 2025 deaths assigned to selected analytical units",
   "analytical_universe": "Existence-bound conflict universe in 2025",
@@ -10,7 +10,7 @@
   "width_px": 2260,
   "height_px": 1298,
   "dpi": 200,
-  "generated_at": "2026-07-13T12:15:54.370176+00:00",
+  "generated_at": "2026-07-23T08:36:41.473224+00:00",
   "notes": "Original two-panel explanatory composition, totals, segment values, Israel annotation, and interpretation blocks preserved.",
   "font_sans": "DejaVu Sans",
   "font_mono": "DejaVu Sans Mono"

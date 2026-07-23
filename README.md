@@ -11,7 +11,7 @@ The public releases examine how recorded conflict deaths are distributed across 
   - Article source: [`articles/01-seven-years-out-of-thirty-seven.md`](articles/01-seven-years-out-of-thirty-seven.md)
   - Reproduction notebook: [`notebooks/articles/01_seven_years_out_of_thirty_seven.ipynb`](notebooks/articles/01_seven_years_out_of_thirty_seven.ipynb)
 
-- **The line is rising. But not everywhere.**
+- **The line has risen again. But not everywhere.**
   - Live article: [conflictlens.org/the-line-is-rising-but-not-everywhere](https://conflictlens.org/the-line-is-rising-but-not-everywhere/)
   - Article source: [`articles/01a-the-line-is-rising-but-not-everywhere.md`](articles/01a-the-line-is-rising-but-not-everywhere.md)
   - Reproduction notebook: [`notebooks/articles/01a_the_line_is_rising_but_not_everywhere.ipynb`](notebooks/articles/01a_the_line_is_rising_but_not_everywhere.ipynb)
